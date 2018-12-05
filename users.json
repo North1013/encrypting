@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "ae6e4d1209f17b460503904fad297b31e9cf6362",
+      "password": "40bd001563085fc35165329ea1ff5c5ecbdbbeef"
+    },
+    {
+      "name": "cac7bbb6b67b44ea0ab997d34a88e4ea9b4d3d62",
+      "password": "056eafe7cf52220de2df36845b8ed170c67e23e3"
+    },
+    {
+      "name": "ac53974e3fd81974d1b294759477a35dc2586d7b",
+      "password": "f10e2821bbbea527ea02200352313bc059445190"
+    },
+    {
+      "name": "a430dcf58c9acea52af05e722306a74ab77d8c7d",
+      "password": "a938dfdfbaa1f25ccbc39e16060f73c44e5ef0dd"
+    }
+  ]
+}
